@@ -1,7 +1,7 @@
 from django.db import models
-from  user.models import User
+# from  user.models import User
 
-# Create your models here.
+# # Create your models here.
 
-class Equipo(models.Model):
-    pass
+# class Equipo(models.Model):
+#     pass
